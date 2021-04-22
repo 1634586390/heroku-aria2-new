@@ -1,15 +1,15 @@
 {
 	"name": "Heroku-aria2",
-	"description": "Aria2 for Heroku",
+	"description": "forHeroku",
 	"repository": "https://github.com/moeik/Heroku_aria2",
-	"keywords": ["aria2"],
+	"keywords": ["hhh"],
 	"env": {
 		"HEROKU_APP_NAME": {
 			"description": "填写你的 \"App name\"，保证和上面一样"
 		},
 		"ARIA2C_SECRET": {
 			"description": "填写一个密码",
-			"value": "password"
+			"value": "1234"
 		},
 		"RCLONE_CONFIG": {
 			"description": "每一行配置后面用\"\\n\"替换换行符",
